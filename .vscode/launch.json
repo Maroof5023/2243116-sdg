@@ -1,0 +1,129 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg2.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg2.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg3.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg3.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg4.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg4.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg5.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg5.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open first22.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\first22.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "pg6.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg6.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg7.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg7.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg8.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg8.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg9.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg9.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg10.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg10.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg11.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg11.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg12.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg12.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg13.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg13.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg14.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg14.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg15.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg15.html"
+        },{
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg16.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg16.html"
+        },{
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open pg17.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\pg17.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open contact.html",
+            "file": "c:\\Users\\m\\OneDrive\\Desktop\\2243116\\2243116-sdg\\contact.html"
+        }
+    ]
+}
